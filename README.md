@@ -12,8 +12,7 @@
 > - Or any other aspects of a complete AI system
 > 
 > This is **basic loading system design only** - the foundation for memory management in NeuroShellOS.
-
-This repository contains **minimal, foundational orchestration designs** for running AI models (ONNX format) in NeuroShellOS. These designs were created with AI assistance (Gemini) to establish basic patterns that can be expanded based on specific use cases.
+> While most systems struggle with the "Model Hell" of third-party compatibility, NeuroShellOS is built to run its own native models, specifically trained for its unique system-level use cases. By providing a vertically integrated solution, the OS design eliminates common industry problems—such as broken dependencies, mismatched tokenizers, and hardware-specific errors—at the architectural level. Because the model and the operating system are co-developed as a single stack, developers no longer need to worry about model support; the system is the solution.This repository contains **minimal, foundational orchestration designs** for running AI models (ONNX format) in NeuroShellOS. These designs were created with AI assistance (Gemini) to establish basic patterns that can be expanded based on specific use cases.
 
 ## 🎯 Purpose
 
