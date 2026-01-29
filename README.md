@@ -15,7 +15,7 @@
 > 
 > While most systems struggle with the "Model Hell" of third-party compatibility, NeuroShellOS is built to run its own native models, specifically trained for its unique system-level use cases. By providing a vertically integrated solution, the OS design eliminates common industry problems—such as broken dependencies, mismatched tokenizers, and hardware-specific errors—at the architectural level. Because the model and the operating system are co-developed as a single stack, developers no longer need to worry about model support; the system is the solution.
 >
-> IN THIS README OR  ARTCILE ABOUT THIS REPO - SAID SOME PROBLEMS , WHICH IS SOLVED BY DESIGN . BUT ITS NEEDED TO KNOWN BY WHO WNATS TO CONTRIBUTERS.ALSO ONLY SAID WELL KNOWN RUNTIMES<MAY BE NEW RUNTIMES COMES<NEEDED TO ADD THAT ALSO , IF IT IS MORE BETTER.
+> IN THIS README OR  ARTCILE ABOUT THIS REPO - SAID SOME PROBLEMS , WHICH IS SOLVED BY DESIGN . BUT ITS NEEDED TO KNOWN BY WHO WANTS TO CONTRIBUTERS.ALSO ONLY SAID WELL KNOWN RUNTIMES , MAY BE NEW RUNTIMES COMES , NEEDED TO ADD THAT ALSO , IF IT IS MORE BETTER - SO MORE OPTIMIZED. BUT ADDS COMPLEXITY AGAIN. SECURITY AND PERFORMANCE IS CRITICAL FOR AN OS , SO ITS NEEDED.
 
 ## 🎯 Purpose
 
